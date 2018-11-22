@@ -1,0 +1,29 @@
+table
+{
+	border-collapse: collapse;
+}
+
+td.green{
+	border: 1px solid black;
+	background-color: green;
+	width: 50px;
+}
+
+td.blue
+{
+	border: 1px solid black;
+	background-color: aqua;
+	width: 50px;
+}
+
+td.pink
+{
+	border: 1px solid black;
+	background-color: pink;
+	width: 50px;
+}
+
+td{
+	width: 100px;
+	text-align: center
+}
